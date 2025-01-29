@@ -1,0 +1,8 @@
+Everything must be pulled directly in to the hierarchy. Do NOT pull in to the scene or this risks messing with positions.
+
+Drag the "Evergarden Stage" prefab from the "Stage Prefab" folder in to your hierarchy. It will automatically position itself so do not touch the position.
+
+Drag the "EG_WorldConstraint_2.0" prefab from the "Constraint Prefabs" folder in to your hierarchy. Then pull it in to your avatar hierarchy under the root of your avatar (the part that says the avatar's name)
+
+Note for troubleshooting:
+The front pole is positioned at x= 0.90003 y= 9.9856 z= -0.7858
